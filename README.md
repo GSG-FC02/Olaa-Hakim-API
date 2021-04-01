@@ -8,7 +8,7 @@ Many times, muslims user needs to access quickly general information  about Sour
 ### User journey
 The user can enter certain name of the Soura and click on (استخرج)button to find general information about the Soura.
  These general information are the squence number of each Soura, the verses count, and the place of revelation.
-### How the App dose ?
+### How was the App built?
 We use API Fethcing to create this app and by this app you can search any information about sur al quran al kareen.
 ### What is the API which we use ?
 https://api.quran.sutanlab.id/surah
@@ -16,8 +16,11 @@ https://api.quran.sutanlab.id/surah
 ### App installation to run it locally.
 You should have in your machine gitBash to download this app.
 > git clone ( past the copied link of clone)
+
 > cd Information of Sour Al-Qura'an Al-Kareem(Olaa-Hakim-Project) 
+
 > code .
+
 > go live
 
 
